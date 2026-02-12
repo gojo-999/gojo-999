@@ -104,23 +104,23 @@
 
 ---
 <!-- GitHub Readme Stats -->
-![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical)
+![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gojo-999&show_icons=true&theme=radical)
 
 <!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbz-Mahin7x&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojo-999&layout=compact&theme=radical)
 
 <!-- Trophy -->
-![trophy](https://github-profile-trophy.vercel.app/?username=Dbz-Mahin7x&theme=flat)
+![trophy](https://github-profile-trophy.vercel.app/?username=gojo-999&theme=flat)
 
 
   <!-- GitHub Stats -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical&bg_color=ffb6c1&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=ff99cc&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbz-Mahin7x&layout=compact&theme=radical&bg_color=ffccf9&title_color=ff1493&text_color=ffffff&border_color=ff99cc&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gojo-999&show_icons=true&theme=radical&bg_color=ffb6c1&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=ff99cc&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gojo-999&layout=compact&theme=radical&bg_color=ffccf9&title_color=ff1493&text_color=ffffff&border_color=ff99cc&hide_border=true" />
   </div>
 
   <!-- Streak -->
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dbz-Mahin7x&theme=radical&background=ffb6c10d&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&border=ff99cc&hide_border=true" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=gojo-999&theme=radical&background=ffb6c10d&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&border=ff99cc&hide_border=true" />
 </div>
 
 ---
@@ -128,7 +128,7 @@
 ## 🔥 Profile Views
 
  <p align="center">
-  <img width="400px" src="https://count.getloli.com/get/@Dbz-Mahin7x?theme=rule34"></img>
+  <img width="400px" src="https://count.getloli.com/get/@gojo-999?theme=rule34"></img>
 </p>
 
 #
@@ -136,7 +136,7 @@
 ## ✨ My Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbz-Mahin7x&bg_color=0d1117&color=ff66cc&line=00ffff&point=ffffff&area=true&area_color=ff66cc" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gojo-999&bg_color=0d1117&color=ff66cc&line=00ffff&point=ffffff&area=true&area_color=ff66cc" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -177,7 +177,7 @@
 
 ---
 <!-- Contribution graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Dbz-Mahin7x&theme=react-dark&hide_border=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=gojo-999&theme=react-dark&hide_border=true)
 
 ##
 
