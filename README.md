@@ -1,26 +1,26 @@
 #   
   <h1 style="font-size: 45px; color: #00ffe0;">🌸 𝐇𝐞𝐲, 𝐈'𝐌 𝐌𝐀𝐇𝐈𝐍 — 𝐁𝐫𝐨𝐤𝐞𝐧 𝐌𝐚𝐧 💔</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF61C3&center=true&vCenter=true&width=450&lines=Hey+guys+What's+Up+🇯🇵;🎀+🌷+✨;Node+%7C+React+%7C+Bots+🐐;I+code+like+it's+a+love+story+💘" alt="Typing SVG" />
-
+  
  <p style="margin-top:15px;">
 
 # 🌸 𝓚𝓪𝔀𝓪𝓲𝓲 𝓒𝓸𝓭𝓮 𝓦𝓸𝓻𝓵𝓭 🎀
 
 <div align="center">
-
+  
   <!-- Bouncing Header -->
   <h1 style="color: #ff69b4; font-size: 45px; text-shadow: 3px 3px 0 #ffb6c1;">
     <marquee behavior="alternate" scrollamount="3">
       🎀
     </marquee>
   </h1>
-
+  
   <!-- Profile Image Frame with YOUR image (Optimized) -->
   <div style="background: linear-gradient(45deg, #ffb6c1, #ff69b4, #ff1493); padding: 15px; border-radius: 50%; width: 250px; height: 250px; margin: 0 auto; border: 8px solid #ff99cc; box-shadow: 0 0 40px #ff1493; display: flex; align-items: center; justify-content: center; overflow: hidden;">
     <img src="https://files.catbox.moe/i6967g.jpg" alt="Mahin's Profile" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;" />
   </div>
-
-
+  
+ 
   <!-- Floating Emojis -->
   <div>
     <span style="font-size: 30px;">🌸 🎀 🍓 💖 ✨ 🎨 🍭 🦄 🍬 🎠</span>
@@ -29,14 +29,14 @@
 
 ---
 
-
-
+  
+  
 
 ## 💖 **𝓐𝓫𝓸𝓾𝓽 𝓜𝓮** 🍡
 
 <div align="center">
   <div style="background: linear-gradient(45deg, #ffb6c1, #ffccf9, #ccf2ff); padding: 25px; border-radius: 25px; border: 5px double #ff69b4; margin: 20px;">
-
+    
 <table>
   <tr>
     <td width="50%">
@@ -70,7 +70,7 @@
 ## 🎨 **𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴** 🛠️
 
 <div align="center">
-
+  
   <!-- Tech Icons with Animation -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 20px; background: #fff0f5; border-radius: 25px; border: 3px dashed #ff99cc;">
     <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -84,41 +84,44 @@
     <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind-FF99CC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </div>
+  
+ <div align="center">
 
- # <!-- Cute Skill Bars -->
-<div style="background: white; padding: 25px; border-radius: 20px; margin-top: 20px; border: 4px dotted #ff69b4;">
-  <h3 style="color: #ff1493; text-align: center;">🍓 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓛𝓮𝓿𝓮𝓵𝓼 🍓</h3>
+<div align="center">
 
-  <p>🌸 JavaScript Magic  
-  <img src="https://progress-bar.dev/96/?width=500&title=&color=ff69b4&bgColor=fff0f5" alt="JavaScript" /></p>
+### 🍓 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓛𝓮𝓿𝓮𝓵𝓼 🍓
 
-  <p>🎀 Node.js Power  
-  <img src="https://progress-bar.dev/89/?width=500&title=&color=ff99cc&bgColor=fff0f5" alt="Node.js" /></p>
+<img src="https://img.shields.io/badge/JavaScript%20Magic-96%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript " />
+<br/>
 
-  <p>💖 React Cuteness  
-  <img src="https://progress-bar.dev/78/?width=500&title=&color=ffb6c1&bgColor=fff0f5" alt="React" /></p>
+<img src="https://img.shields.io/badge/Node.js%20Power-89%25-ff99cc?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js " />
+<br/>
 
-  <p>✨ GoatBot Skills  
-  <img src="https://progress-bar.dev/100/?width=500&title=&color=ff1493&bgColor=fff0f5" alt="GoatBot" /></p>
-</div>
+<img src="https://img.shields.io/badge/React%20Cuteness-78%25-ffb6c1?style=for-the-badge&logo=react&logoColor=white" alt="React " />
+<br/>
+
+<img src="https://img.shields.io/badge/GoatBot%20Skills-100%25-ff1493?style=for-the-badge&logo=robot&logoColor=white" alt="GoatBot Skills" />
+
+<br/>
+<br/>
 
 ---
-<!-- GitHub Readme Stats -->
-![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gojo-999&show_icons=true&theme=radical)
-
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojo-999&layout=compact&theme=radical)
-
-<!-- Trophy -->
-![trophy](https://github-profile-trophy.vercel.app/?username=gojo-999&theme=flat)
+<h3 align="left">My GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=gojo-999&show_icons=true&locale=en&theme=onedark&count_private=true" alt="Mahin7x's GitHub Stats" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=gojo-999&layout=compact&locale=en&theme=onedark" alt="Top Languages" />
+</p>
 
 
+
+ ## Stats
   <!-- GitHub Stats -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gojo-999&show_icons=true&theme=radical&bg_color=ffb6c1&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=ff99cc&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gojo-999&layout=compact&theme=radical&bg_color=ffccf9&title_color=ff1493&text_color=ffffff&border_color=ff99cc&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical&bg_color=ffb6c1&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=ff99cc&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbz-Mahin7x&layout=compact&theme=radical&bg_color=ffccf9&title_color=ff1493&text_color=ffffff&border_color=ff99cc&hide_border=true" />
   </div>
-
+  
   <!-- Streak -->
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=gojo-999&theme=radical&background=ffb6c10d&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&border=ff99cc&hide_border=true" />
 </div>
@@ -172,7 +175,7 @@
 ## 🎠 **𝓓𝓪𝓲𝓵𝔂 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂** 📅
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbz-Mahin7x&bg_color=fff0f5&color=ff69b4&line=ff99cc&point=ff1493&area=true&area_color=ffccf9&custom_title=🌸+Mahin's+Daily+Coding+Adventure+🌸&title_color=ff1493&border_color=ff99cc" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gojo-999&bg_color=fff0f5&color=ff69b4&line=ff99cc&point=ff1493&area=true&area_color=ffccf9&custom_title=🌸+Mahin's+Daily+Coding+Adventure+🌸&title_color=ff1493&border_color=ff99cc" width="100%" />
 </div>
 
 ---
@@ -187,7 +190,7 @@
 <div style="font-family: 'Fira Code', monospace; background: linear-gradient(to right, #0f0f0f, #1c1c1c); border-radius: 15px; box-shadow: 0 0 20px #00ffff99; padding: 30px; color: #00ffe0;">
 
   <h2 style="color: #00ffff; text-align: center;">🎀 Sᴏᴍᴇ Dᴇᴀᴛɪʟs </h2>
-
+ 
   <pre style="background: #111; padding: 15px; border-radius: 10px; color: #00ffea; overflow-x: auto;">
 
 > ʜᴏᴘɪɴɢ ᴛᴏ ʜᴀᴠᴇ ᴀ ʙᴇᴛᴛᴇʀ Fᴜᴛᴜʀᴇ ✨🫶🍭
